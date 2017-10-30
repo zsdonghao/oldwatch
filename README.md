@@ -8,7 +8,7 @@ In 2010s, with the rapid development of modern microelectronics industry, Apple 
 >>Permanent Calendar，Idle Mode，Integral Point Alarm
 
 ## Atmel C2051 MCU
->作者：中山董豪  时间：2010年
+>作者：zsdonghao  时间：2010年
 
 >功能：4位数码管可以显示 时分，月日，年份；万年历，整点报时，定时自动(或手动)关闭显示器,空闲模式工作省电
 
